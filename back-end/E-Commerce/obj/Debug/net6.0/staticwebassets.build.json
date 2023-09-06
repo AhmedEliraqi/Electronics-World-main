@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "JBUQSWyYshL+frdhGSNA2l7//IBxim4lmzb8CHesdsk=",
+  "Source": "E-Commerce",
+  "BasePath": "_content/E-Commerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E-Commerce\\wwwroot",
+      "Source": "E-Commerce",
+      "ContentRoot": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\images\\53060f17-bff0-453b-9567-60d837e91c7f.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "images/53060f17-bff0-453b-9567-60d837e91c7f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\53060f17-bff0-453b-9567-60d837e91c7f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\images\\ce6a5cf4-900c-4b92-b4c2-cf97cc80df4f.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "images/ce6a5cf4-900c-4b92-b4c2-cf97cc80df4f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ce6a5cf4-900c-4b92-b4c2-cf97cc80df4f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\images\\m.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "images/m.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\m.jpg"
+    }
+  ]
+}

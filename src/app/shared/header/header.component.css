@@ -1,0 +1,37 @@
+nav {
+
+
+  color: #ffffff;
+}
+  .content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+
+  }
+      ul {
+          list-style: none;
+          display: flex;
+          justify-content: space-between;
+          width: 20%;
+          margin: 0;
+      }
+          li {
+              cursor: pointer;
+              font-size: 22px;
+              color: #ffffff;
+              text-decoration: none;
+
+          }
+
+          .az{
+            background-image: url("src/images/c.jpg");
+            background-size:3200px;
+
+            background-repeat: no-repeat;
+
+
+        }
+
+

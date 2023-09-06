@@ -1,0 +1,62 @@
+<div class="zx">
+  <div class="cv">
+    <p style="font-size: 30px;">Welcome to
+    </p>
+    <p style="font-weight: bold;font-size: 40px;color: rgb(186, 226, 86);">Electronics World</p>
+    <p style="font-size: 30px;">All what you need</p>
+    <p style="font-size: 30px;">in one place</p>
+  </div>
+  <div class="box">
+
+    <div class="container">
+      <div class="top-header">
+
+        <header>Sign Up</header>
+      </div>
+      <div>
+        <form class="form"  [formGroup]="signup" (ngSubmit)="signupForm()">
+          <div class="input-field">
+            <input type="text" class="input" placeholder="first name" formControlName="FirstName" required>
+            <i class="bx bx-user"></i>
+          </div>
+
+          <div class="input-field">
+            <input type="text" class="input" placeholder="last name" formControlName="LastName" required>
+            <i class="bx bx-user"></i>
+          </div>
+
+          <div class="input-field">
+            <input type="text" class="input" placeholder="email" formControlName="Email" required>
+            <i class="bx bx-user"></i>
+          </div>
+
+          <div class="input-field">
+            <input type="text" class="input" placeholder="Username" formControlName="UserName" required>
+            <i class="bx bx-user"></i>
+          </div>
+          <div class="input-field">
+            <input type="password" class="input" placeholder="Password" formControlName="Password" required>
+            <i class="bx bx-lock-alt"></i>
+          </div>
+          <div class="input-field">
+            <input type="submit" class="submit" value="Signup">
+          </div>
+        </form>
+      </div>
+
+      <div class="bottom">
+        <div class="left">
+
+        </div>
+        <div class="right">
+          Already have an account ?
+          <p routerLink="/login" style="margin-left: 120px;
+          text-decoration: underline;text-decoration-thickness: 2px;
+          cursor: pointer;">Login
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\images\\53060f17-bff0-453b-9567-60d837e91c7f.jpg",
+      "PackagePath": "staticwebassets\\images\\53060f17-bff0-453b-9567-60d837e91c7f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\images\\ce6a5cf4-900c-4b92-b4c2-cf97cc80df4f.jpg",
+      "PackagePath": "staticwebassets\\images\\ce6a5cf4-900c-4b92-b4c2-cf97cc80df4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EL-Huda\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\images\\m.jpg",
+      "PackagePath": "staticwebassets\\images\\m.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.E-Commerce.props",
+      "PackagePath": "build\\E-Commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce.props",
+      "PackagePath": "buildTransitive\\E-Commerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

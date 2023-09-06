@@ -1,0 +1,45 @@
+<div class="zx">
+  <div class="cv">
+    <p style="font-size: 30px;">Welcome to
+    </p>
+    <p style="font-weight: bold;font-size: 40px;color: rgb(186, 226, 86);">Electronics World</p>
+    <p style="font-size: 30px;">All what you need</p>
+    <p style="font-size: 30px;">in one place</p>
+  </div>
+  <div class="box">
+
+    <div class="container">
+      <div class="top-header">
+
+        <header>Login</header>
+      </div>
+
+      <form [formGroup]="login" (ngSubmit)="loginForm()">
+        <div class="input-field">
+          <input type="text" class="input" placeholder="email" formControlName="email" required>
+          <i class="bx bx-user"></i>
+        </div>
+        <div class="input-field">
+          <input type="password" class="input" placeholder="Password" formControlName="Password" required>
+          <i class="bx bx-lock-alt"></i>
+        </div>
+        <div class="input-field">
+          <input type="submit" class="submit" value="Login">
+        </div>
+      </form>
+
+
+      <div class="bottom">
+
+        <div class="left">
+          Dont have an account ?
+          <p routerLink="/signup" style="
+          text-decoration: underline;text-decoration-thickness: 2px;
+          cursor: pointer;color: black;">Signup
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
